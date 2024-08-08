@@ -1,4 +1,4 @@
-# nginx-rtmp
+# NGINX RTMP Server using Docker
 
 [**Docker**](https://www.docker.com/) image with [**Nginx**](http://nginx.org/en/) using the [**nginx-rtmp-module**](https://github.com/arut/nginx-rtmp-module) module for live video streaming.
 
